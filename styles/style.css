@@ -1,0 +1,33 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	font-size: 20px;
+}
+main {
+	font-size: 20px;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+footer {
+	text-align: center;
+	background-color: lightgrey;
+}
+nav {
+	border: 2px solid black;
+	width: 400px;
+}
+
+h1 {
+	text-align: center;
+	background-color: lightgrey;
+}
+
+.gallery {
+	height: 200px;
+	width: 325px;
+	margin: 10px 0;
+	border: 2px solid black;
+}
